@@ -1,5 +1,5 @@
 {
-  "name": "jb-bar",
+  "name": "@jyskebank/jb-bar",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
