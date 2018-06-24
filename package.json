@@ -9,6 +9,7 @@
   "author": "",
   "dependencies": {
     "@jyskebank/jb-baz": "git+https://github.com/dalsgaard/jb-baz.git#develop",
-    "@jyskebank/jb-utils": "git+https://github.com/dalsgaard/jb-utils.git#develop"
+    "@jyskebank/jb-utils": "git+https://github.com/dalsgaard/jb-utils.git#develop",
+    "@polymer/polymer": "3.0.2"
   }
 }
